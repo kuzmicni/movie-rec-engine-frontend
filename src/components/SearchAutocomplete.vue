@@ -99,7 +99,7 @@ export default {
   methods: {
     submit () {
       var self = this;
-      self.recommendations = [];//http://127.0.0.1:5000/recms
+      self.recommendations = [];
       axios.post('http://0.0.0.0:80/recms', {
         movie_title: this.movieTitle
       })
