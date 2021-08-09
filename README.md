@@ -9,7 +9,7 @@ I created this project to leverage the open-source [MovieLens dataset](https://g
 
 ## Get started
 
-Before building out the frontend, you will need to make sure that the backend API is running in the background and will serve the movie recommendations. On the instructions how to do that please refer to: 
+Before building out the frontend, you will need to make sure that the backend API is running in the background and will serve the movie recommendations. For the instructions on how to do that please refer to: 
 
 https://github.com/kuzmicni/movie-rec-engine-backend
 
